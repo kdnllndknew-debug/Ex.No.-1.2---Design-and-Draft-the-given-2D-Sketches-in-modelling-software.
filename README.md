@@ -14,23 +14,28 @@
  2.	Select the plane for sketching. 
  3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
  
- ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
+<img width="385" height="807" alt="image" src="https://github.com/user-attachments/assets/2b47d47d-e307-4ca6-a9ea-a88feaf0da58" />
+
  4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
  
- ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
- 
+<img width="232" height="706" alt="image" src="https://github.com/user-attachments/assets/dd3d2627-011a-4804-8890-e6570754663c" />
+
  5.	Use inspect feature to measure the dimensions of sketch.
  
- ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
+<img width="295" height="553" alt="image" src="https://github.com/user-attachments/assets/33e33602-c500-4f3a-bf04-7b8683390b8f" />
+
  
  6.	After finishing the sketch use finish sketch option to finalize the sketch.
- ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
+    
+<img width="312" height="567" alt="image" src="https://github.com/user-attachments/assets/40d38288-8e42-4179-8f8b-697431fe3992" />
+
  7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
  
- ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
- 
- ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
- 
+<img width="340" height="456" alt="image" src="https://github.com/user-attachments/assets/bbc482bf-8832-4059-86fa-3f41433d9958" />
+
+
+<img width="500" height="540" alt="image" src="https://github.com/user-attachments/assets/3af6eb40-4edd-4821-b310-e181af877ee1" />
+
  
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
